@@ -1,0 +1,1 @@
+delete markers and leave only text wanted
